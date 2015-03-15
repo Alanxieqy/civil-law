@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 民法的体系
 
 ## 支配
@@ -92,3 +93,8 @@
 **民事法律关系**
 
 !["民事法律关系图"](http://i3.tietuku.com/2493697194f170af.png "民事法律关系")
+=======
+# First Chapter
+
+GitBook allows you to organize your book into chapters, each chapter is stored in a separate file like this one.
+>>>>>>> e5ffe94f00175a9e81cc71f5c6dd39efad23dcf3
