@@ -7,3 +7,4 @@ Summary
 * [物权法](chapter3.md)
 * [债法](chapter4.md)
 * [侵权责任法](chapter5.md)
+* [合同法](chapter6.md)
